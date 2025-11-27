@@ -34,7 +34,7 @@ Focus Areas:
   - Web Development
   - Security Architecture
   - Full-Stack Engineering
-
+```
 
 ## 📊 GitHub Stats
 
