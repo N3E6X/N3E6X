@@ -34,3 +34,14 @@ Focus Areas:
   - Web Development
   - Security Architecture
   - Full-Stack Engineering
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3E6X&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/N3E6X)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N3E6X&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/N3E6X)
+
+</div>
