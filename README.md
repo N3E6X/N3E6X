@@ -17,7 +17,6 @@
 
 ## 🛠️ Tech Stack
 
-```yaml
 Languages:
   - Python
   - JavaScript
@@ -34,4 +33,4 @@ Focus Areas:
   - Web Development
   - Security Architecture
   - Full-Stack Engineering
-```
+
